@@ -10,4 +10,4 @@
 ✅ 主要改进<br>
 SimSPPF：引入轻量化的 SimSPPF 模块，替代原始 SPPF，降低计算量同时保留多尺度感受野信息。<br>
 MPDIoU Loss：采用自定义 MPDIoU（Multi-Point Dynamic IoU）边界框回归损失，增强检测框对复杂目标轮廓的适应性，提升定位精度。<br>
-![改进的yolov8架构图](https://github.com/wu20249/garbage-sorting_001/代码/图片/改进的yolov8架构图.png)
+![image](https://github.com/wu20249/garbage-sorting_001/tree/main/代码/图片/改进的yolov8架构图.png)
